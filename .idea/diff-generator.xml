@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig" isInitGenerateDdl="true">
+    <option name="initGenerateDdl" value="true" />
+    <option name="sourceModelValue" value="orderservice:entityManagerFactory" />
+    <option name="targetDbValue" value="0fb43cf7-aca4-4709-a041-c8a980063ead" />
+  </component>
+</project>
